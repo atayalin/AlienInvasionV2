@@ -1,0 +1,6 @@
+0,enemy_1,imgs.png
+1,enemy_2,imgs.png
+2,lightning,imgs.png
+3,player,imgs.png
+4,shot,imgs.png
+5,power_up,imgs.png
